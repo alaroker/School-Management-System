@@ -1,8 +1,6 @@
-# Codecool Management System
+# This is a School Management System in Python Flask
 
-## Development
 
-**Check _Contributing_ section below before you start submit new features**
 
 #### Prerequsites
 
@@ -12,13 +10,7 @@ Check that you have installed following:
 * [PIP](https://pypi.python.org/pypi)
 * [Virtualenv](https://virtualenv.pypa.io/en/stable/)
 
-_Make sure PIP and Virtualenv are installed for proper version of Python
-(if you have installed more than one version of Python)._
-
-If you never worked with Virtualenv before, go to
-https://virtualenv.pypa.io/en/stable/ and read concept about it.
-
-#### Getting started
+#### How to run the project on your computer
 
 After you clone repo to your local computer, navigate to newly created
 directory and do the following steps:
@@ -62,20 +54,4 @@ directory and do the following steps:
 
 6. Open web-browser and navigate to [http://localhost:5000](http://localhost:5000)
 
-## Contributing
 
-1. Fork the project & clone locally.
-2. Create an _upstream_ remote and sync your local copy before you branch.
-3. Branch for each separate piece of work.
-4. Do the work, and write [good commit messages](https://blogs.gnome.org/danni/2011/10/25/a-guide-to-writing-git-commit-messages/).
-5. Push to your _origin_ repository.
-6. Create a new PR (Pull Request) in GitHub.
-7. Respond to any [code review feedback](https://lornajane.net/posts/2015/code-reviews-before-you-even-run-the-code).
-
-## Documentation
-
-All documentation can be found in [doc](doc/README.md) directory.
-
-## Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) file.
